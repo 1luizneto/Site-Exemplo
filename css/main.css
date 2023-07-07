@@ -27,6 +27,7 @@ main .main-content .text p {
     font-size: 1.2em;
     font-weight: 300;
     text-align: justify;
+    line-height: 1.6;
 }
 
 
@@ -43,7 +44,8 @@ main .techs .cards-conteiner .card {
     padding: 10px;
     background-color: #eee;
     border-radius: 8px;
-    margin-right: 1.8em;
+    margin-right: .9em;
+    margin-left: .9em;
     cursor: pointer;
 
     display: flex;
